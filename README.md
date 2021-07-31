@@ -3,9 +3,9 @@
 In this project we had to Identify the topic of the given paragraph or article by picking up the keywords.<br>
 For that we required a dataset which had a collection of paragraphs.<br>
 Here, we used 20 Newsgroups Dataset<br>
-The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup documents, partitioned (nearly) evenly across 20 different newsgroups. To the best of my knowledge, it was originally collected by Ken Lang, probably for his Newsweeder: Learning to filter netnews paper, though he does not explicitly mention this collection. The 20 newsgroups collection has become a popular data set for experiments in text applications of machine learning techniques, such as text classification and text clustering.<br>
+The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup documents, partitioned (nearly) evenly across 20 different newsgroups. To the best of my knowledge, it was originally collected by Ken Lang, probably for his Newsweeder: Learning to filter netnews paper, though he does not explicitly mention this collection. The 20 newsgroups collection has become a popular data set for experiments in text applications of machine learning techniques, such as text classification and text clustering.<br><br>
 
-#How to use your own dataset 
+# How to use your own dataset 
 <br>
 To use your own dataset you need to specify the location of your dataset in the path_train varialbe. <br>
 ### Source file directory <br>
