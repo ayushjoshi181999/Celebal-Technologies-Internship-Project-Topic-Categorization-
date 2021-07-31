@@ -7,8 +7,10 @@ The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup doc
 
 # How to use your own dataset 
 <br>
-To use your own dataset you need to specify the location of your dataset in the path_train varialbe. <br>
-###  Source file directory <br>
+To use your own dataset you need to specify the location of your dataset in the path_train variable. <br>
+
+### Source file directory 
+<br>
 path_train = "Dataset-Path"   <br><br>
 
 We used sklearn.datasets.load_files to load the files. <br>
