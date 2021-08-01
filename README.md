@@ -25,7 +25,7 @@ file_43.txt file_44.txt …  <br><br>
 
 The folder names are used as supervised signal label names. The individual file names are not important. <br> <br>
 
-Also, in the data_tages change the change the "news" to your desired column name for example : "paragrahs/articles" <br>
+Also, in the data_tages change the "news" to your desired column name for example : "paragrahs/articles" <br>
 data_tags = ["filename","category","news"]   <br>
 
 Creation of the initial dataset <br>
